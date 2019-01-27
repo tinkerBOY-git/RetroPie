@@ -1,1 +1,1 @@
-# RetroPi pre-built images.
+# RetroPie pre-built images.
