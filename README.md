@@ -1,1 +1,1 @@
-# RetroPie-GPIO
+# RetroPi pre-built images.
